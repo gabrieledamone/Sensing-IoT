@@ -5,9 +5,7 @@ Sensing &amp; IoT Project Code Repository
 
 **Overview:** This study aims to predict the Relative Indoor Humidity based on external environmental parameters. 
 
-**Paddling Tecnique**
-
-The data_collection/ directory contains all scripts and data backups used during part 1 of the coursework.
+The **data_collection/** directory contains all scripts and data backups used during part 1 of the coursework.
 
 **Paddle Blade Design**
 
