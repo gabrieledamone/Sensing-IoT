@@ -3,15 +3,11 @@ Sensing &amp; IoT Project Code Repository
 
 **Author:** Gabriele D'Amone
 
-**Overview:** This study aims to maximise the propulsive force that a paddler with a muscular strength of 125 N can generate in a specific amount of time (180 seconds).
-
-The outputs of this Optimisation will suggest a personalised Paddle blade design and Paddling Tecnique:
+**Overview:** This study aims to predict the Relative Indoor Humidity based on external environmental parameters. 
 
 **Paddling Tecnique**
 
-- Peak Blade Velocity 
-- Stroke Exit Angle
-- Stroke Rate
+The data_collection/ directory contains all scripts and data backups used during part 1 of the coursework.
 
 **Paddle Blade Design**
 
