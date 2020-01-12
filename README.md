@@ -7,7 +7,7 @@ Sensing &amp; IoT Project Code Repository
 
 **Video:** https://drive.google.com/file/d/1CHa1CwWY-bpoUNKj9dFpz7Rj4Hjs1hQZ/view?usp=sharing
 
-**Web Dashboard:** https://io.adafruit.com/gabrieledamone/dashboards/air-quality-monitor
+**Web Dashboard:** https://io.adafruit.com/gabrieledamone/dashboards/air-quality-monitor?kiosk=true
 
 ## Dependencies
 
