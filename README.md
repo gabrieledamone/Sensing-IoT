@@ -5,9 +5,6 @@ Sensing &amp; IoT Project Code Repository
 
 **Overview:** This study aims to predict the Relative Indoor Humidity based on external environmental parameters. 
 
-The **data_collection/** directory contains all scripts and data backups used during part 1 of the coursework.
-The **data_analysis/** and **data_prediction_algorithm/** directory contains all scripts and data backups used during part 2 of the coursework.
-
 ## Dependencies
 
 This subsystem runs using Matlab R2019b, Arduino IDE and Adafruit IO.
